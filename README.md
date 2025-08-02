@@ -36,8 +36,6 @@ This project predicts medical insurance expenses using a **Linear Regression** m
 
 ### ▶️ How to Run
 
-1. Open the notebook: `health_costs_regression.ipynb`
+1. Open the notebook: `vin_fcc_predict_health_costs_with_regression.ipynb`
 2. Run all cells
 3. View predictions and model evaluation
-
----
